@@ -1,0 +1,6 @@
+1. MaterialUI 구현 중
+  - MaterialUI 가 정보를 보여줄 Material 과 Material 이 사용하는 Shader 간의
+    파라미터 노출 관계를 보여주도록 구현 중
+  - Material 이 Shader 에서 요구하는 Texture 를 전달하기위해서 세팅받은 Texture 정보를
+    화면에 노출시키도록 함
+  - material 이 전달시킬 Texture 를 MaterialUI 를 통해서 변경 가능하게 구현 예정

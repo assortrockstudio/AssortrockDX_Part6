@@ -1,0 +1,3 @@
+1. ContentUI 에 현재 Asset 의 상태를 반영하는 RenewContent 함수 구현
+
+2. Tree 의 항목의 이름을 표시할때, 경로가 아닌 파일 이름만 보이도록 하는 기능 추가

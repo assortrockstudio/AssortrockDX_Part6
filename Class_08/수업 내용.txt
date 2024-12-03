@@ -1,0 +1,6 @@
+1. Inspector 에 각각의 Asset 을 담당할 AssetUI 들 생성
+  - 모든 Asset 종류별 AssetUI 를 Inspector 의 자식UI 로 넣어둠
+  - Inspector 에 전달되는 오브젝트(GameObject, Asset) 이 어떤 오브젝트냐에 따라 알맞은 
+    UI 들이 활성화 되도록 함
+
+2. MeshUI 구현

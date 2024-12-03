@@ -1,0 +1,7 @@
+1. 재질 저장 불러오기 테스트
+
+2. AssetMgr 에서 Asset 의 변경사항 감지하도록 변경
+
+3. Material 은 데이터가 셋팅 될때 
+   특정 조건(EngineAsset X, Dynamic X, LevelState STOP O)
+   에 만족하면 바로 실제 원본 파일에 변경점을 저장하도록 구현

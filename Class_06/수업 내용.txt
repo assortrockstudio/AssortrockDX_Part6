@@ -1,0 +1,2 @@
+1. Level 에 있는 Gameobject 의 정보를 반영하는 outliner 추가
+  - Outliner 에 TreeUI 를 적용 시켜서 GameObject 의 정보를 트리구조로 표현

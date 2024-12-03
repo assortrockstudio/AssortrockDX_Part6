@@ -1,0 +1,11 @@
+1. Tree 에 항목 선택기능 추가
+  - 항목이 선택되면 하이라이트 되도록 플래그 설정
+  - 선택된 노드는 TreeUI 에 등록됨
+  - 특정 항목이 선택되는 순간에 TreeUI 에 등록된 CallBack Or Delegate 를 호출시킴
+
+2. ContentUI, OutlinerUI 가 Tree 에 항목 선택시 호출될 Delegate 등록
+  - OutlinerUI 는 항목 선택 시, Inspector 에 선택된 GameObject 정보를 알려서 해당 오브젝트
+    컴포넌트 정보가 뜨도록 적용
+
+3. Inspector 가 Asset 의 정보를 받았을 때 해당 Asset 의 정보를 출력할 수 
+   있게 AssetUI 구현 예정
