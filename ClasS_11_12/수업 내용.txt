@@ -1,6 +1,0 @@
-1. TreeUI 완성
-  - DragDrop 관련 기능 지원
-  - OutlinerUI 에서 TreeUI 의 드래그 드랍 기능으로, GameObject 의 부모자식 연결 기능 구현
-
-2. MaterialUI 구현 중
-  - GraphicShader 에서 요청하는 파라미터를 UI 에 노출시키도록 구현 중
